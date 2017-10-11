@@ -28,6 +28,4 @@ ToastHelper.ShowToast(string toastMsg, bool isLong);
 **isLong** corresponds to the length of the Toast message. This uses the *Toast.LENGTH_LONG* or *Toast.LENGTH_SHORT* from the Toast class. 
 
 
-*iOS Toast classes integrated from [iOS Toast Repo](https://github.com/scalessec/Toast)* 
-
-Copyright (c) 2011-2016 Charles Scalesse.
+*iOS Toast classes integrated from [iOS Toast Repo](https://github.com/scalessec/Toast)* (Copyright (c) 2011-2016 Charles Scalesse.)
