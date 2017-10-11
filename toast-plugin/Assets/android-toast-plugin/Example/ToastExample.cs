@@ -9,6 +9,10 @@ public class ToastExample : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         //Show a short toast message
-        ToastHelper.ShowToast("This is a Toast", false);
+
+	}
+
+	public void Toast(){
+		ToastHelper.ShowToast("This is a Toast", false);
 	}
 }
