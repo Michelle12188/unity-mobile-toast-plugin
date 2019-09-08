@@ -1,6 +1,8 @@
 # unity-mobile-toast-plugin
 Simple plugin for Android that allows you to use the native Android Toast class in your games. 
 
+Note: * I am not personally supporting this plugin, if you want to contribute let me know. 
+
 
 ## Set up 
 
